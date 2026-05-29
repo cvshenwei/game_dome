@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shu5",
+    "texture": "a36954db-c332-476d-a2db-dd843cdda3bf",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      220,
+      314
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      224,
+      316
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

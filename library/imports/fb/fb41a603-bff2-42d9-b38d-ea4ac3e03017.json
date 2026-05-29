@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "valibate_off",
+    "texture": "690d0779-0d98-4ac6-aa40-74cb33eda7ff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      114
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      131,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

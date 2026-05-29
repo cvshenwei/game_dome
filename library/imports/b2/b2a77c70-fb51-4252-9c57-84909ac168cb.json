@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_gamepage_prop",
+    "texture": "1a426b77-49d7-4d1e-9e8b-58be5b814d26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      324,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      324,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_NoteBoard",
+    "texture": "5b945c3b-a199-4fa6-abc0-840fd037f650",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      776,
+      745
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      776,
+      745
+    ],
+    "capInsets": [
+      43,
+      54,
+      51,
+      48
+    ]
+  }
+}

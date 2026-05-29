@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shader2",
+    "texture": "868daa1f-0321-423c-9909-8de042fa48cf",
+    "atlas": "",
+    "rect": [
+      141,
+      357,
+      500,
+      156
+    ],
+    "offset": [
+      1.5,
+      -149.5
+    ],
+    "originalSize": [
+      779,
+      571
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

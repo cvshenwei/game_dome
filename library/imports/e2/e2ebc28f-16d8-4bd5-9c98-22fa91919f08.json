@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_audio_on",
+    "texture": "d8b99fa2-e95c-4f75-b211-0002a72b5055",
+    "atlas": "",
+    "rect": [
+      9,
+      10,
+      32,
+      32
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_banner10",
+    "texture": "f9df6355-aa8c-4e0f-b920-bc7ad9c5c0b0",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      544,
+      133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      552,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lingbg",
+    "texture": "b4d612b9-a9c8-4634-84a3-1a02b8d0ec32",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      70,
+      70
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      75,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

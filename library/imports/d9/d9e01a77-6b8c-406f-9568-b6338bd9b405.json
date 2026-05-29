@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rankdown",
+    "texture": "e1c0228f-2fa2-4796-a53c-d4ece6fe6358",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      60,
+      87
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      63,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

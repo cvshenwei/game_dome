@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_gear",
+    "texture": "b1b42788-3891-45ff-98f7-3d8af317ecf7",
+    "atlas": "",
+    "rect": [
+      10,
+      10,
+      32,
+      32
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

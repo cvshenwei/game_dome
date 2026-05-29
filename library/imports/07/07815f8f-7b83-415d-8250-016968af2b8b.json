@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ice.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ice_01": {
+      "__uuid__": "3acc41c7-d1e0-44e2-8739-b33847f4ed45"
+    },
+    "ice_02": {
+      "__uuid__": "7f2ce024-1119-4acd-9031-7e861684905d"
+    },
+    "ice_03": {
+      "__uuid__": "6f1f50ee-671a-46d4-8440-00f943dc78a4"
+    },
+    "ice_04": {
+      "__uuid__": "e32a220b-5437-471e-b7b0-7ef6eac88ff8"
+    },
+    "ice_05": {
+      "__uuid__": "320e10a3-59b4-472e-a17f-47d06f255ae4"
+    },
+    "ice_06": {
+      "__uuid__": "43835a17-fee9-468e-b3e5-911a8ad9bb32"
+    },
+    "ice_07": {
+      "__uuid__": "b556ea02-72d3-4cde-b9e5-31a2d385d119"
+    },
+    "ice_08": {
+      "__uuid__": "014742e7-64ad-4c3a-8f60-08996cf3386f"
+    },
+    "ice_09": {
+      "__uuid__": "4c666c7c-ab84-4612-ba42-d160d8dac1f0"
+    },
+    "ice_10": {
+      "__uuid__": "d4148d25-aff0-4ebd-b80c-c13aa8efccb4"
+    },
+    "ice_11": {
+      "__uuid__": "229594f2-4eed-4c8c-9e1b-2494bb5f4e8d"
+    },
+    "ice_12": {
+      "__uuid__": "f2d5ea10-e1c5-42b5-ae76-cf2ce1365500"
+    },
+    "ice_13": {
+      "__uuid__": "68e609db-5d71-45bd-8d1a-20d7b2ca2bc3"
+    },
+    "ice_14": {
+      "__uuid__": "6e881ea7-f45a-4306-89ce-bc456d115618"
+    },
+    "ice_15": {
+      "__uuid__": "21f88cb5-4bbd-4ec9-a324-5047680b3690"
+    },
+    "ice_16": {
+      "__uuid__": "8d034583-9806-4561-9aac-0ef60fc69896"
+    },
+    "ice_17": {
+      "__uuid__": "28378c66-588c-416c-8677-89c9317676d5"
+    },
+    "ice_18": {
+      "__uuid__": "89b8d04e-fe8e-44b7-9d00-d008c8892bbf"
+    },
+    "ice_19": {
+      "__uuid__": "9a5315cf-2c3d-45e5-bdf9-f464d774371e"
+    },
+    "ice_20": {
+      "__uuid__": "5ff6f193-e0ed-4b5e-9d6a-b5714e143cb8"
+    },
+    "ice_21": {
+      "__uuid__": "8f4b04c8-6f72-4c06-b12a-02a3d717b980"
+    },
+    "ice_22": {
+      "__uuid__": "117d8ed7-61a7-4aec-adc9-16b81f6bf5d1"
+    },
+    "ice_23": {
+      "__uuid__": "03ef8d8e-2e27-49eb-9df1-86e884f8505a"
+    },
+    "ice_24": {
+      "__uuid__": "6b25551d-6553-43a4-bd5b-4bc0669e8e38"
+    },
+    "ice_25": {
+      "__uuid__": "4579afa3-bb7f-4bd1-b8e3-7e3284aeefd8"
+    }
+  }
+}
